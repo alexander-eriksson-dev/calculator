@@ -1,6 +1,6 @@
 # calculator
 
-Made for the final project "Calculator" in the foundations of [The Odin Project](www.theodinproject.com)
+Made for the final project "Calculator" in the foundations of [The Odin Project](https://www.theodinproject.com/)
 
 ![Screenshot of Calculator](https://i.imgur.com/Ckq3hOA.png)
 
