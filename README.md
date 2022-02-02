@@ -6,11 +6,11 @@ Made for the final project "Calculator" in the foundations of [The Odin Project]
 
 ### [LIVE DEMO](https://alexander-eriksson-dev.github.io/calculator/)
 
-## Features
+## What is it?
 
-✅ Built from scratch with HTML, CSS & Javascript using knowledge from the previous lessons (+ a whole lot new)
+✅ A simple calculator that supports all basic calculations like add, subtract, multiply, divide and remainder
 
-✅ Supports all basic calculations (add, subtract, multiply, divide, remainder) ⁒ − +
+✅ Built with HTML, CSS & Javascript using knowledge from the previous lessons (+ a whole lot new)
 
 ✅ Multiple consecutive operations ⨴
 
